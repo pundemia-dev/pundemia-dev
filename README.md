@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="intro.svg" alt="Welcome Animation">
+</p>
 ## Hi there 👋
     
 <a href="https://git.io/typing-svg">
