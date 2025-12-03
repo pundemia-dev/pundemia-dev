@@ -3,25 +3,16 @@
 </a>
 
 <br>
-<p align="center">
-  <code>Initializing connection... Connected.</code>
-</p>
 
-<h3 align="center">Welcome to P U N D E M I A Sector</h3>
+CS Student & Systems Programming enthusiast.
+<br>
+Focusing on **Rust**, **C++**, and low-level software development.
 
-<p align="center">
-  I am an architect of digital chaos and a <b>Rust Evangelist</b>.<br>
-  My reality runs on <b>Arch Linux</b>, edited in <b>Neovim</b>, and compiled with zero warnings.
-</p>
+<br>
 
----
+`Arch Linux` • `Neovim` • `Rust` • `C++`
 
-### $ execute --mission
-
-- **Create:** High-performance systems, CLI tools, and safe abstractions.
-- **Destroy:** Bloatware, memory leaks, and inefficiency.
-
-> *Converting caffeine into binaries since [Year you started coding].*
+<br>
 
 ```
 
@@ -35,11 +26,10 @@
                        P  U  N  D  E  M  I  A
 
 ```
-<details>
-<summary>📊 System Telemetry (Click to expand)</summary>
-<br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+<details>
+<summary>More</summary>
+<br>
 
 </details>
 
