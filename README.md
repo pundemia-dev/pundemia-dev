@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Ссылка на SVG файл. Замени USERNAME и REPO на свои -->
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/terminal.svg" width="100%" alt="Terminal Output" />
+  <img src="terminal.svg" width="100%" alt="Terminal Output" />
 
 </div>
 
