@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="intro.svg" alt="Welcome Animation">
-</p>
-## Hi there 👋
-    
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Software+Engineer;Arch+Linux+Enjoyer;Rust+Evangelist;Welcome+to+PUNDEMIA" alt="Typing SVG" />
 </a>
